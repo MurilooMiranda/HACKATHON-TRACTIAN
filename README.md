@@ -1,1 +1,2 @@
 # HACKATHON-TRACTIAN
+Identificamos para José duas problemáticas: A dificuldade no entendimento do áudio que seu patrão o enviou, e a falta de entendimento da língua inglesa para ler o manual de instruções. Para resolver essas duas questões, nosso grupo propôs o desenvolvimento de um site que consiga realizar a tradução de áudios em textos escritos, além de também traduzir a linguagem de textos para o português.
